@@ -482,7 +482,9 @@ Por exemplo, você pode filtrar pelos planetas que possuam _Orbital period maior
 </details>
 
 ---
-
+  
+# Requisitos Bônus
+  
 ## 9 - Ordene as colunas de forma ascendente ou descendente
 
 * A ordenação deve ser feita via filtro: um dropdown selecionará a coluna a basear a ordenação e um par de radio buttons determinará se é ascendente ou descendente.
@@ -538,8 +540,6 @@ Por exemplo, você pode filtrar pelos planetas que possuam _Orbital period maior
 </details>
 
 ---
-
-# Requisito Bônus
 
 ## 10 - Desenvolva testes para atingir 90% de cobertura total da aplicação
 
